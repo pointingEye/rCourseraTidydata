@@ -7,7 +7,7 @@ The first column contains the all the subjects (n=30) followed by all the activi
 #columns
 apart from the first column
 
-1. "SubjectsOrActivities"
+1. "SubjectOrActivity"
 
 The columns are named after the codebook in the original data provided by the course. Since only mean and standard deviation values are of interest,
 the following is a list of the data columns:
