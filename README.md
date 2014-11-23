@@ -10,4 +10,4 @@ The function run_analysis computes averages of all variables that contain the st
 
 Remember to set the working directory on the folder in which you store the data for testing.
 
-See also the code book for the variable names and (minimal) info
+See also the code book for the variable names and (minimal) info.
